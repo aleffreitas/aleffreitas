@@ -1,14 +1,10 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alef Freitas</h1>
-<h3 align="center">A Web Developer and passionate about technologie</h3>
+<h1 align="center">E aí Jovem!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Alef Freitas</h1>
+<h3 align="center">Desenvolvedor Web, apaixonado por Tecnologia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleffreitas" alt="aleffreitas" /> </p>
 
-- 🔭 I’m currently not working.
+- 👨‍💻 Todos os meus proejetos estão disponíveis no Github, Behance e no instagram @petitosos.
 
-- 👨‍💻 All of my projects are available at github, behance and in instagram @petitosos
-
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT.
-
-- 📫 How to reach me **aleffreitasdesign@gmail.com**
+- 🌱 Atualmente estou dedicando, estudando e desenvolvendo projetos em REACT JS, JAVASCRIPT, HTML e CSS.
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleffreitas&show_icons=true&include_all_commits=true&count_private=true"/> 
