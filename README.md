@@ -1,4 +1,4 @@
-<h1 align="center">E aí Jovem!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Alef Freitas</h1>
+<h1 align="center">E aí!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Alef Freitas!</h1>
 <h3 align="center">Desenvolvedor Web, apaixonado por Tecnologia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleffreitas" alt="aleffreitas" /> </p>
 
