@@ -1,7 +1,7 @@
 <h1 align="center">E aí!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou o Alef Freitas!</h1>
 <h3 align="center">Desenvolvedor Web, apaixonado por Tecnologia</h3>
 
-- 👨‍💻 Todos os meus proejetos estão disponíveis no Github, Behance e no instagram @petitosos.
+- 👨‍💻 Todos os meus projetos estão disponíveis no Github e Behance.
 
 - 🌱 Atualmente estou dedicando, estudando e desenvolvendo projetos em REACT JS, JAVASCRIPT, HTML e CSS.
 
